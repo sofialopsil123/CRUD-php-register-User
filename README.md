@@ -1,16 +1,16 @@
-# 📌 CRUD en PHP + MySQL
+# 📌 CRUD  in PHP + MySQL
 
-Este proyecto es un sistema **CRUD** (Create, Read, Update, Delete) desarrollado en **PHP** con **MySQL/MariaDB**, utilizando **Bootstrap 5** para los estilos.
+Dieses Projekt ist ein CRUD-System (Create, Read, Update, Delete), das in PHP mit MySQL/MariaDB entwickelt wurde und Bootstrap 5 für die Stile verwendet.
 
-Permite:
-- Registrar usuarios mediante un formulario.
-- Listar todos los registros en una tabla.
-- Editar registros existentes.
-- Eliminar registros.
+Es ermöglicht:
 
+Die Registrierung von Benutzern über ein Formular.
+Die Auflistung aller Datensätze in einer Tabelle.
+Die Bearbeitung bestehender Datensätze.
+Das Löschen von Datensätzen.
 ---
 
-## 🌐 Demo en línea
+## 🌐 Online-Demo
 
 👉 [Probar el sistema aquí](https://sofialop2025.infinityfreeapp.com/index.php)
 
